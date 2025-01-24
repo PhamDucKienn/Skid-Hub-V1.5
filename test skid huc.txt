@@ -2,7 +2,7 @@
 local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/PhamDucKienn/Gui/refs/heads/main/Gui"))()
 
 local Window = OrionLib:MakeWindow({
-    Name = "Skid Hub V1.25(Beta)⚡",
+    Name = "Skid Hub V1.5(Beta)⚡",
     HidePremium = false,
     IntroText = "Skid Hub⚡",
     SaveConfig = true,
